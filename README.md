@@ -94,9 +94,9 @@ To provide an evaluation of different one-class classifiers for the task of anom
 
 ## Authors
 
-Daniela Gomez Cravioto - (https://github.com/danisha20)
-Ramon Díaz Ramos - https://github.com/ramon_diaz)
-Michael Zenkl - (https://github.com/ToxicFyre)
+*Daniela Gomez Cravioto - (https://github.com/danisha20)
+*Ramon Díaz Ramos - https://github.com/ramon_diaz)
+*Michael Zenkl - (https://github.com/ToxicFyre)
 
 ## References
 
